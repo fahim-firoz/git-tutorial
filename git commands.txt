@@ -1,0 +1,10 @@
+Git commands
+
+to create aliases:-
+   git config --global alias.s "status"
+this will create a shortcut i.e s for the keyword status
+
+to prevent a file from adding to the git version history put those files inside .gitignore file
+
+to remove git from your project:-
+   rm -rf .git
